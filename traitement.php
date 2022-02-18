@@ -6,7 +6,7 @@ echo("<br>");
 $day = $_REQUEST['day'];
 $month = $_REQUEST['month'];
 $year = $_REQUEST['year'];
-$this_day = 17;
+$this_day = 18;
 $this_month = 02;
 $this_year = 2022;
 $day_val = $this_day - $day;
